@@ -1,8 +1,7 @@
 # TravelEase
 Introduction
 
-TravelEase is a comprehensive ticketing system designed to support various modes of transportation including buses, trains, airplanes, and launches. This project provides a centralized platform for both transportation companies and passengers, offering a safe and efficient way to manage ticketing services.
-Features
+TravelEase is a comprehensive ticketing system designed to support various modes of transportation including buses, trains, airplanes, and launches. This project provides a centralized platform for both transportation companies and passengers, offering a safe and  
 
     Multi-Modal Ticketing: Support for bus, train, air, and launch ticketing systems.
     Company Registration: A secure platform for transportation companies to register and avail of services.
