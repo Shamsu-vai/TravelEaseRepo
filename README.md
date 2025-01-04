@@ -10,11 +10,3 @@ Features
     Support for Passengers: Dedicated support for passengers to facilitate ticket booking and inquiries.
     Support for Vehicle Owners: Services tailored to the needs of vehicle owners to manage their operations effectively.
 
-    Contributing
-
-We welcome contributions from the community to improve TravelEase. If you'd like to contribute, please follow these guidelines:
-
-    Fork the repository and create your branch from main.
-    Make your changes and ensure they align with the project's coding standards.
-    Test your changes thoroughly.
-    Submit a pull request detailing the changes you've made.
